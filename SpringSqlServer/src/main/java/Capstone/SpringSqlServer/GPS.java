@@ -19,4 +19,8 @@ public class GPS {
     public Float getYcoord() {
         return this.ycoords;
     }
+
+    public void setYcoords(Float ycoord) {
+        this.ycoords = ycoord;
+    }
 }
