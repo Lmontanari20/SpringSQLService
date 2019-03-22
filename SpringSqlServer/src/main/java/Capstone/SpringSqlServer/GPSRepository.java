@@ -8,5 +8,5 @@ import Capstone.SpringSqlServer.GPS;
 // CRUD refers Create, Read, Update, Delete
 
 public interface GPSRepository extends  CrudRepository<GPS, Integer> {
-    
+
 }
